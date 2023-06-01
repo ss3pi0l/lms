@@ -1,0 +1,26 @@
+body { 
+    background-image: url("background_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+marquee {
+    color:beige;
+    background-color: #4C3D3D;
+}
+
+.formformat {
+  background-color: rgb(76, 61, 61, 0.6);
+  color: rgb(255, 247, 212);
+}
+
+table{
+    color:#4C3D3D;
+    background-color: rgb(245, 245, 220, 0.9);
+    border-color: #4C3D3D;
+}
+
+th {
+  background-color: rgb(245, 245, 220);
+}
+
